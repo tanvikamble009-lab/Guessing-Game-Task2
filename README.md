@@ -13,7 +13,7 @@ This project is beginner-friendly and demonstrates the use of Core Java concepts
 
 
 
-# Features
+## Features ##
 
 Random number generation
 User input validation
@@ -25,7 +25,7 @@ Console-based gameplay
 
 
 
-# Technologies Used
+## Technologies Used ##
 
 Java
 OOP Concepts
@@ -37,7 +37,7 @@ Methods
 
 
 
-# Project Structure
+## Project Structure ##
 
 NumberGuessingGame/
 │
@@ -47,7 +47,7 @@ NumberGuessingGame/
 
 
 
-# File Description
+## File Description ##
 
 Task2.java
 Contains:
@@ -62,7 +62,7 @@ Main game
 
 
 
-# How the Game Works
+## How the Game Works ##
 
 The system generates a random number between 1 and 100.
 The user enters guesses.
@@ -77,7 +77,7 @@ Points are awarded based on attempts taken.
 
 
 
-# Scoring System
+## Scoring System ##
 Attempts Points
 1	 10
 2	 9
@@ -91,7 +91,7 @@ Attempts Points
 
 
 
-# How to Run the Project
+## How to Run the Project ##
 Step 1: Open Terminal
 Open Command Prompt or PowerShell in the project folder.
 
@@ -105,7 +105,7 @@ java Task2
 
 
 
-# SAMPLE OUTPUT
+## SAMPLE OUTPUT ##
 Guess the number (between 1 and 100):
 
 Enter your guess: 50
@@ -126,7 +126,7 @@ Points earned: 8
 
 
 
-# Concepts Used
+## Concepts Used ##
 Methods
 Loops
 Conditional Statements
@@ -139,7 +139,7 @@ Score
 
 
 
-# Future Improvements
+## Future Improvements ##
 Multiple Rounds
 Difficulty Levels
 High Score System
@@ -149,7 +149,7 @@ Multiplayer Mode
 
 
 
-# Author
+## Author ##
 Tanvi Kamble
 
 
@@ -158,6 +158,6 @@ Tanvi Kamble
 
 
 
-# License
+## License ##
 This project is for educational purposes only
 
